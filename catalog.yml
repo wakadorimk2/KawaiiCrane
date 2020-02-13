@@ -1,7 +1,10 @@
 PREDEF:
+  - chap00-preface.re
 
 CHAPS:
-  - kawaiicrane.re
+  - chap01-overview.re
+  - chap02-development.re
+  - chap03-conclusion.re
 
 APPENDIX:
 
